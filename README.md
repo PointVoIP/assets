@@ -1,0 +1,2 @@
+# assets
+Public Static Assets
